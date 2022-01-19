@@ -1,4 +1,4 @@
-<a href="https://discord.com/invite/zyHDwXy3tN">
+<a href="https://discord.com/invite/6xVw8yP7">
   <img src="https://cdn.discordapp.com/attachments/878513200444870667/919758624300077056/CONVITE.png">
 </a>
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
