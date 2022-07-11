@@ -1,8 +1,8 @@
-<a href="https://discord.com/invite/6xVw8yP7">
-  <img src="https://cdn.discordapp.com/attachments/878513200444870667/919758624300077056/CONVITE.png">
+<a href="https://discord.com/invite/EzTgwgGkxz">
+  <img src="https://cdn.discordapp.com/attachments/878513200444870667/970135330126704650/reddybanner.png">
 </a>
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
-<article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-balaka-construtor" class="anchor" aria-hidden="true" href="#balaka-construtor"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Redyy Panfleto</h1>
+<article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-balaka-construtor" class="anchor" aria-hidden="true" href="#balaka-construtor"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Redy Panfleto</h1>
 <p dir="auto"><strong>[PT-BR]</strong></p>
 <blockquote>
 <p dir="auto">Emprego de panfleto totalmente configuravel para Fivem</p>
@@ -12,6 +12,6 @@
 <li>Criação e Desenvolvimento realizado atraves do meu script de trabalho de panfleto</li>
 <li>Consideravelmente Otimizado (devido ao seu sistema de facil localização do trabalho)</li>
 <li>Estrutura Adpatavel para rodar em bases que usam o FrameWork "Creative/Bahamas"</li>
-<li>Idealização e Desenvolvimento: Reddy "DEV" (Reddy DEV#6746)</li>
+<li>Idealização e Desenvolvimento: REDY#6746 </li>
 </ul>
 <h2 dir="auto"><a id="user-content--instalação" class="anchor" aria-hidden="true" href="#-instalação"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
